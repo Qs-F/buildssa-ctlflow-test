@@ -1,6 +1,6 @@
 module github.com/Qs-F/exp-buildssa-ctlflow
 
-go 1.18
+go 1.19
 
 require (
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
